@@ -1,0 +1,67 @@
+#lightwave.yaml:
+  host: 192.168.x.xxx
+  lights:
+    R1D1:
+      name: Master Bedroom Ceiling Light
+    R2D1:
+      name: Dining Room lights
+    R2D2:
+      name: Coffytable lights
+    R3D1:
+      name: Office lights
+    R4D1:
+      name: Kitchen light
+    R5D1:
+      name: Hallway light
+    R6D1:
+      name: Landing Lights
+    R6D2:
+      name: Chandelier Lights
+    R7D1:
+      name: Garden Lights
+#    R7D2:
+#      name: xAlleyway Lights #Switch faulty
+    R7D3:
+      name: Front lights
+    R9D1:
+      name: Guest lights
+    R10D1:
+      name: Garage lights
+#Atempt 1
+#  switches:
+#    R11D1:
+    name: Immersion heater
+
+#Atempt 2
+#    self._device_id = device_id.value
+#     self._device_id = device_id
+#      name: Immersion heater
+#      serial: AED102
+
+#Atempt2
+#switch:
+#  platform: mqtt
+#  state_format: 'json:somekey[0].value'
+#switch:
+    
+#Atempt 3
+#switches:
+#  platform: websocket_api
+#  "serial": "AED102"
+#    "trans":1080,
+#    "mac":"03:3F:D9",
+#    "time":1478694048,
+#    "pkt":"868R",
+#    "fn":"statusPush",
+#    "prod":"tmr1ch",
+#    "serial":"AED102",
+#    "type":"temp",
+#    "batt":2.47,
+#    "ver":34,
+#    "state":"run",
+#    "cTemp":25.0,
+#    "cTarg":18.0,
+#    "output":0,
+#    "nTarg":24.0,
+#    "nSlot":"06:00",
+#    "prof":1
