@@ -1,3 +1,7 @@
-Lightwaverf intergration for Home Assistant on raspberry pi 4
+Lightwaverf intergration for Home Assistant on raspberry pi 4 32 bit
 
-I made a selrate .yaml file to keep the config one cleen but it can all go into the main one if you wish.
+Lightwaverf hub 1st gen
+
+I made a seprate lioghtwaverf.yaml file to keep the config one cleen but it can all go into the main one if you wish.
+
+I can not get the Electric Switch LW934 working to contral our emersion heater!
