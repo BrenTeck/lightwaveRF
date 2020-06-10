@@ -1,5 +1,5 @@
 #lightwave.yaml:
-  host: 192.168.x.xxx
+  host: 192.168.x.xxx #Enter you lightwaverf hub IP address
   lights:
     R1D1:
       name: Master Bedroom Ceiling Light
