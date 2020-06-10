@@ -28,9 +28,10 @@
     R10D1:
       name: Garage lights
 #Atempt 1
+# This for the the Electric Switch LW934
 #  switches:
 #    R11D1:
-    name: Immersion heater
+#    name: Immersion heater
 
 #Atempt 2
 #    self._device_id = device_id.value
