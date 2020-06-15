@@ -37,7 +37,7 @@
 #    self._device_id = device_id.value
 #     self._device_id = device_id
 #      name: Immersion heater
-#      serial: AED102
+#      serial: AED123 # see heating, select device, click gear icon
 
 #Atempt2
 #switch:
@@ -48,14 +48,14 @@
 #Atempt 3
 #switches:
 #  platform: websocket_api
-#  "serial": "AED102"
+#  "serial": "AED123"
 #    "trans":1080,
-#    "mac":"03:3F:D9",
+#    "mac":"XX:AA:12", # use wire shark to snuff network packages
 #    "time":1478694048,
 #    "pkt":"868R",
 #    "fn":"statusPush",
 #    "prod":"tmr1ch",
-#    "serial":"AED102",
+#    "serial":"AED123",
 #    "type":"temp",
 #    "batt":2.47,
 #    "ver":34,
