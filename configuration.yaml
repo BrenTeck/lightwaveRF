@@ -1,2 +1,2 @@
 #configuration.yaml
-lightwave: !include lightwave.yaml #Imersion switch not working
+lightwave: !include lightwave.yaml #Immersion switch not working
